@@ -1,3 +1,7 @@
+# Clone
+```
+git clone https://github.com/vladikoff/yeomanto-may-demo.git && cd yeomanto-may-demo
+```
 # Install
 ```
 npm install
